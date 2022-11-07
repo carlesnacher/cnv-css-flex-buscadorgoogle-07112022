@@ -1,0 +1,103 @@
+body{
+    margin: 0;
+}
+
+.container{
+    background-color: yellow;
+    height: 100vh;
+}
+
+.header{
+    background-color: green;
+    height: 10vh;
+    display: flex;
+}
+
+.main{
+    background-color: aqua;
+    height: 75vh;
+    display: flex;
+    justify-content: center;
+}
+
+.footer{
+    background-color: red;
+    height: 15vh;
+}
+
+.nav{
+    width: 50vw;
+    background-color: blue;
+}
+
+.nav2{
+    width: 50vw;
+    background-color: blueviolet;
+}
+
+.content{
+    width: 60vw;
+    height: 75vh;
+    background-color: yellow;
+}
+
+.logo{
+    width: 60vw;
+    height: 20vh;
+    background-color: green;
+}
+
+.buscador{
+    width: 60vwh;
+    height: 10vh;
+    background-color: azure;
+}
+
+.botones{
+    width: 60vw;
+    height: 10vh;
+    background-color: red;
+}
+
+.data{
+    width: 60vw;
+    height: 10vh;
+    background-color: green;
+}
+
+.data2{
+    width: 60vw;
+    height: 25vh;
+    background-color: blue;
+}
+
+.footer-nav{
+    width: 100vw;
+    height: 5vh;
+    background-color: yellow;
+}
+
+.footer-nav2{
+    width: 100vw;
+    height: 10vh;
+    background-color: blueviolet;
+    display: flex;
+}
+
+.footer-nav2-1{
+    width: 33vw;
+    height: 10vh;
+    background-color: orange;
+}
+
+.footer-nav2-2{
+    width: 33vw;
+    height: 10vh;
+    background-color: green;
+}
+
+.footer-nav2-3{
+    width: 34vw;
+    height: 10vh;
+    background-color: red;
+}
