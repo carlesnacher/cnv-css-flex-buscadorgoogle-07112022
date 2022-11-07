@@ -3,101 +3,155 @@ body{
 }
 
 .container{
-    background-color: yellow;
     height: 100vh;
 }
 
 .header{
-    background-color: green;
     height: 10vh;
     display: flex;
 }
 
 .main{
-    background-color: aqua;
     height: 75vh;
     display: flex;
     justify-content: center;
 }
 
 .footer{
-    background-color: red;
     height: 15vh;
 }
 
 .nav{
     width: 50vw;
-    background-color: blue;
 }
 
-.nav2{
+.nav2 {
     width: 50vw;
-    background-color: blueviolet;
+    display: flex;
+    justify-content: end;
 }
 
 .content{
     width: 60vw;
     height: 75vh;
-    background-color: yellow;
 }
 
 .logo{
     width: 60vw;
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo img{
+    width: 25vw;
     height: 20vh;
-    background-color: green;
 }
 
 .buscador{
-    width: 60vwh;
-    height: 10vh;
-    background-color: azure;
+    width: 60vw;
+    height: 5vh;
 }
 
 .botones{
     width: 60vw;
+    height: 5vh;
+    display: flex;
+}
+
+.link{
+    width: 30vw;
     height: 10vh;
-    background-color: red;
+    display: flex;
+    justify-content: end;
+}
+
+.link2{
+    width: 30vw;
+    height: 10vh;
+    display: flex;
+    justify-content: start;
 }
 
 .data{
     width: 60vw;
-    height: 10vh;
-    background-color: green;
+    height: 8vh;
+    display: flex;
+    justify-content: center;
 }
 
 .data2{
     width: 60vw;
-    height: 25vh;
-    background-color: blue;
+    height: 27vh;
+    display: flex;
+    justify-content: center;
 }
 
 .footer-nav{
-    width: 100vw;
+    width: 90vw;
     height: 5vh;
-    background-color: yellow;
+    margin-left: 30px;
 }
 
 .footer-nav2{
     width: 100vw;
     height: 10vh;
-    background-color: blueviolet;
     display: flex;
 }
 
 .footer-nav2-1{
-    width: 33vw;
+    width: 40vw;
     height: 10vh;
-    background-color: orange;
+    display: flex;
+    align-items: center;
 }
 
 .footer-nav2-2{
     width: 33vw;
     height: 10vh;
-    background-color: green;
+    display: flex;
+    align-items: center;
 }
 
 .footer-nav2-3{
     width: 34vw;
     height: 10vh;
     background-color: red;
+}
+
+ul{
+    display: flex;
+}
+
+li{
+    list-style: none;
+    padding: 0 30px 0 0;
+}
+
+.btn1{
+    text-decoration: none;
+    color: black;
+    height: 3vh;
+    background-color: rgb(242, 232, 232);
+    border: 3px solid rgb(242, 232, 232);
+}
+
+.btn2 {
+    text-decoration: none;
+    color: black;
+    height: 3vh;
+    margin-left: 5px;
+    background-color: rgb(242, 232, 232);
+    border: 3px solid rgb(242, 232, 232);
+}
+
+.link3{
+    color: blue;
+    text-decoration: none;
+}
+
+.idioma{
+    color: blue;
+    text-decoration: none;
 }
