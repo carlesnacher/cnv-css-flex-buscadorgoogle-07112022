@@ -22,6 +22,14 @@ a{
     text-decoration: none;
 }
 
+li img{
+    width: 1.3em;
+}
+
+.user-logo{
+    width: 1.7em;
+}
+
 /*Header*/
 
 .header{
@@ -198,6 +206,10 @@ button:hover{
     justify-content: center;
     align-items: center;
     font-size: 15px;
+}
+
+.hoja{
+    width: 1em;
 }
 
 .footer-nav-right{
