@@ -33,7 +33,7 @@ li img{
 /*Header*/
 
 .header{
-    height: 5vh;
+    height: 15vh;
     display: flex;
 }
 
@@ -85,14 +85,12 @@ li img{
 /* Main */
 
 .main{
-    height: 60vh;
+    height: 75vh;
     width: 100vw;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-bottom: 280px;
-    margin-top: 60px;
 }
 
 .content{
@@ -209,7 +207,7 @@ button:hover{
 }
 
 .hoja{
-    width: 1em;
+    width: 1.25em;
 }
 
 .footer-nav-right{
