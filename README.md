@@ -8,7 +8,7 @@ Actividades de refuerzo HTML5/CSS, del Bootcamp Programación Frontend Angular.
 
 Replicar el layout principal de Google.
 
-[Ejercicio](https://carlesnacher.github.io/cnv-se02-html-css-03112022/Ex1/)
+[Ejercicio](https://carlesnacher.github.io/cnv-css-flex-buscadorgoogle-07112022/)
 
 ## Licencia
 
